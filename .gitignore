@@ -117,7 +117,7 @@ dist
 .yarn/build-state.yml
 .pnp.*
 
-/src/sandbox/
+
 /mongo-volume/
 .idea/
-src/
+
